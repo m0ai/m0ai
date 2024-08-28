@@ -19,6 +19,10 @@ I'm Yeongjun Choi. I love building container based archtecture or somthing.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+
+- [react-nativew-webivew/react-native-webview #3357 PR - fix(android): Handle null value in setMenuCustomItems method](https://github.com/react-native-webview/react-native-webview/pull/3375)
+- [kubernetes/webview #43701 pr - [ko] Fix Outdated Link on cilium-network-policy.md](https://github.com/kubernetes/website/pull/43701)
+
 ---
 
 <!--
