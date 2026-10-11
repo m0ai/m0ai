@@ -4,8 +4,6 @@
 I'm Yeongjun Choi. I love building container based archtecture or somthing.  
 
 
-🔭 I’m currently working on [RIDI](https://github.com/ridi)
-
 🌱 I’m currently learning about kernel networking, with a particular focus on eBPF 
 
 📫 How to reach me:
